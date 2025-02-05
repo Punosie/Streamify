@@ -69,5 +69,10 @@ export const mockData = {
     { song: "Stay", artist: "Justin Bieber", date: "2025-02-01", count: 5000, userId: "123" },
     { song: "Peaches", artist: "Justin Bieber", date: "2025-02-02", count: 4000, userId: "124" },
     { song: "Blinding Lights", artist: "The Weeknd", date: "2025-02-03", count: 3000, userId: "125" },
+    { song: "Levitating", artist: "Dua Lipa", date: "2025-02-04", count: 4500, userId: "126" },
+    { song: "Save Your Tears", artist: "The Weeknd", date: "2025-02-05", count: 5500, userId: "127" },
+    { song: "Bad Guy", artist: "Billie Eilish", date: "2025-02-06", count: 6000, userId: "128" },
+    { song: "Shinunoga E-Wa", artist: "Fujii Kaze", date: "2025-02-07", count: 4000, userId: "129" },
+    { song: "STFU!", artist: "Rina Sawayama", date: "2025-02-08", count: 3700, userId: "130" },
   ],
 };
