@@ -3,7 +3,7 @@ import { mockData } from "../data/mockData";
 import { Container, Stack, Box, Text } from "@chakra-ui/react";
 import HCard from "./Card";
 import { UserGrowthChart, RevenueDistributionChart, TopSongsChart } from "./Chart";
-import Demo from "./Table";
+import Grid from "./DataGrid";
 
 const Dashboard = () => {
     const revenue = mockData.revenue.subscriptions + mockData.revenue.ads;
@@ -60,10 +60,9 @@ const Dashboard = () => {
             <Stack spacing={5} mt={5}>
                 <Box borderWidth="1px" borderRadius="md" p={5}>
                     <Text textAlign="center" fontSize="2xl" fontWeight="bold" p={2}>Recent Streams</Text>
-                    <Demo/>
+                    <Grid/>
                 </Box>
             </Stack>
-                
         </Container>
     );
 };
