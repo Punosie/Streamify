@@ -8,7 +8,7 @@ const Navbar = () => {
         STREAMIFY DASHBOARD
       </Text>
       <Box>
-        <Pfp src="/Zero Two.webp" />
+        <Pfp src="https://i.pinimg.com/236x/a4/53/4d/a4534df18706fcf45740d163a8097e5e.jpg" />
       </Box>
     </Container>
   );
