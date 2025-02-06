@@ -17,7 +17,7 @@ export const mockData = {
     {
       name: "The Weeknd",
       genre: ["Pop", "R&B"],
-      albumCover: "/The Weekend.webp",
+      albumCover: "https://upload.wikimedia.org/wikipedia/en/3/39/The_Weeknd_-_Starboy.png",
       totalStreams: 500000,
       mostPopularSong: "Blinding Lights",
       bio: "The Weeknd is a Canadian singer, songwriter, and record producer known for his hit songs and unique voice blending pop and R&B.",
@@ -25,7 +25,7 @@ export const mockData = {
     {
       name: "Rina Sawayama",
       genre: ["Pop", "Rock", "Electronic"],
-      albumCover: "/Rina Sawayama.webp",
+      albumCover: "https://upload.wikimedia.org/wikipedia/en/8/83/Sawayama_by_Rina_Sawayama_album_cover_%28digital%29.png",
       totalStreams: 250000,
       mostPopularSong: "STFU!",
       bio: "Rina Sawayama is a British-Japanese singer, songwriter, and model, blending genres like pop, rock, and electronic in innovative ways.",
@@ -33,7 +33,7 @@ export const mockData = {
     {
       name: "Fujii Kaze",
       genre: ["Pop", "R&B", "Jazz"],
-      albumCover: "/Fujii Kaze.webp",
+      albumCover: "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Fujii_Kaze_-_Help_Ever_Hurt_Never.png/220px-Fujii_Kaze_-_Help_Ever_Hurt_Never.png",
       totalStreams: 300000,
       mostPopularSong: "Shinunoga E-Wa",
       bio: "Fujii Kaze is a Japanese singer-songwriter known for his soulful, genre-blending music that mixes pop, R&B, and jazz elements.",
